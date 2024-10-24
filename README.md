@@ -1,2 +1,2 @@
-Data Analyst Project
+DataCamp Data Analyst Project
  
