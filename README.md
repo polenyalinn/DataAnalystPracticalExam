@@ -1,2 +1,2 @@
-Project Data Analyst Project
+Data Analyst Project
  
